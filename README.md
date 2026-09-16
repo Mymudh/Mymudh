@@ -1,20 +1,14 @@
 # 💫 About Me
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-### 🔭 I’m currently building **Machine Learning and Generative AI applications**
-
-### 🌱 I’m currently exploring **Deep Learning, NLP, Computer Vision, and LLMs**
-
-### 👯 I’m interested in collaborating on **ML/AI projects**
-
-### 💬 Ask me about **Python, Machine Learning, and Generative AI**
-
-### 💼 AI/ML Training & Internship Experience at **iHub-Data | IIIT Hyderabad**
-
-### 🎓 B.Tech in **Electronics & Communication Engineering**
-
-### ⚡ I enjoy building **practical AI solutions and intelligent systems**
+**🔭 I’m currently building Machine Learning and Generative AI applications**<br>
+**🌱 I’m currently exploring Deep Learning, NLP, Computer Vision, and LLMs**<br>
+**👯 I’m interested in collaborating on ML/AI projects**<br>
+**💬 Ask me about Python, Machine Learning, and Generative AI**<br>
+**💼 AI/ML Training & Internship Experience at iHub-Data | IIIT Hyderabad**<br>
+**🎓 B.Tech in Electronics & Communication Engineering**<br>
+**⚡ I enjoy building practical AI solutions and intelligent systems**
 
 
 ## 🌐 Socials:
