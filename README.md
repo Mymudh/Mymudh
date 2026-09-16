@@ -1,5 +1,14 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br>- 🔭 I’m currently working on Machine Learning projects<br>- 🌱 I’m currently learning Deep Learning and NLP<br>- 👯 I’m looking to collaborate on ML/AI projects<br>- 💬 Ask me about Python, Machine Learning, and Data Analysis<br>- ⚡ Fun fact: I love working with data and building intelligent systems<br><br>## 📫 Contact<br>- GitHub: https://github.com/Mymudh<br>- LinkedIn: https://www.linkedin.com/in/mymudh-shaik-9b8726353/<br>- Email: mymudhh@gmail.com
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently building **Machine Learning and Generative AI applications**
+- 🌱 I’m currently exploring **Deep Learning, NLP, Computer Vision, and LLMs**
+- 👯 I’m interested in collaborating on **ML/AI projects**
+- 💬 Ask me about **Python, Machine Learning, and Generative AI**
+- 💼 AI/ML Training & Internship Experience at **iHub-Data | IIIT Hyderabad**
+- 🎓 B.Tech in **Electronics & Communication Engineering**
+- ⚡ I enjoy building **practical AI solutions and intelligent systems** 📫 Contact<br>- GitHub: https://github.com/Mymudh<br>- LinkedIn: https://www.linkedin.com/in/mymudh-shaik-9b8726353/<br>- Email: mymudhh@gmail.com
 
 
 ## 🌐 Socials:
